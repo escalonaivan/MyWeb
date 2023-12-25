@@ -1,0 +1,11 @@
+2023-12-25 11:54:12.018 [info] 
+
+
+
+
+2023-12-25 11:54:12.018 [info] Extension host agent started.
+2023-12-25 11:54:12.018 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ivaesbel/.vscode-server/extensions
+2023-12-25 11:54:12.038 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ivaesbel/.vscode-server/extensions
+2023-12-25 11:54:12.205 [info] [127.0.0.1][8d764ce9][ManagementConnection] New connection established.
+2023-12-25 11:54:12.479 [info] [127.0.0.1][30d4f6b6][ExtensionHostConnection] New connection established.
+2023-12-25 11:54:12.489 [info] [127.0.0.1][30d4f6b6][ExtensionHostConnection] <777> Launched Extension Host Process.
